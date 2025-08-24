@@ -5,25 +5,25 @@ It allows **companies/admins** to post job openings while **students** can creat
 
 ---
 
-## 🚀 Features  
+##  Features  
 
-### 👨‍💼 For Companies / Admins  
+###  For Companies / Admins  
 - Post, update, and manage job opportunities.  
 - Review and track student applications.  
 - Manage company information.  
 
-### 🎓 For Students  
+###  For Students  
 - Register and manage personal profiles.  
 - Browse job postings and apply with a single click.  
 - Track application history and status.  
 
-### 🔐 Authentication & Roles  
+###  Authentication & Roles  
 - Secure login for both students and admins.  
 - Role-based dashboards for tailored access.  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend:** React (Vite.js), Tailwind CSS  
 - **Backend:** Node.js, Express.js  
@@ -33,7 +33,7 @@ It allows **companies/admins** to post job openings while **students** can creat
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```bash
 career-hub-biet/
@@ -44,7 +44,7 @@ career-hub-biet/
 
 ---
 
-## ⚡ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 
@@ -62,7 +62,7 @@ npm run dev      # Runs the backend server (nodemon or similar)
 ```
 
 By default, backend runs at:
-👉 `http://localhost:5000`
+ `http://localhost:5000`
 
 ### 3. Frontend Setup
 
@@ -75,13 +75,13 @@ npm run dev      # Runs the Vite dev server
 ```
 
 By default, frontend runs at:
-👉 `http://localhost:5173`
+ `http://localhost:5173`
 
 
 
 ---
 
-## 👨‍🎓 Author
+##  Author
 
 **Eshwar Katika**
 
