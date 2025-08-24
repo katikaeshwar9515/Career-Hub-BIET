@@ -25,11 +25,10 @@ It allows **companies/admins** to post job openings while **students** can creat
 
 ##  Tech Stack  
 
-- **Frontend:** React (Vite.js), Tailwind CSS  
+- **Frontend:** React (Vite.js)
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
 - **Authentication:** JWT (JSON Web Tokens)  
-- **Deployment (optional):** Vercel / Render / Netlify / Heroku  
 
 ---
 
